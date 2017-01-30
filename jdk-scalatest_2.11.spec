@@ -1,6 +1,6 @@
 Name     : jdk-scalatest_2.11
 Version  : 2.2.6
-Release  : 1
+Release  : 2
 URL      : http://repo2.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.6/scalatest_2.11-2.2.6.jar
 Source0  : http://repo2.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.6/scalatest_2.11-2.2.6.jar
 Source1  : http://repo2.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.6/scalatest_2.11-2.2.6.pom
